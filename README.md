@@ -27,12 +27,12 @@ It’s intended as a starting point that you can expand into a full multiplayer 
 - Join/leave callbacks  
 - Ownership (host) handling
 
-- ## 🧪 Usage
+## 🧪 Usage
 
 - Create a lobby to host a session  
 - Synchronize data between players using lobby metadata
 
-- ## 🔧 Extending This Project
+## 🔧 Extending This Project
 
 This sample is intentionally simple. You can build on top of it by adding:
 
